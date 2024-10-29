@@ -1,7 +1,6 @@
 #Torres de Hanoi 2.0
 
 # Practica 1
-# Luis Gustavo Velasco Hernandez
 
 main:
 	addi s0, zero, 15 # Numero de discos en s0
